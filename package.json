@@ -1,0 +1,26 @@
+{
+  "name": "hubot-trello-github",
+  "version": "1.0.0",
+  "description": "Hubot, Trello, and Github living in harmony. Close cards with Pull Requests. Interact with cards with Hubot.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hacklanta/hubot-trello-github.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "trello",
+    "github"
+  ],
+  "author": "@riveramj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacklanta/hubot-trello-github/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "node-trello": "*"
+  },
+  "homepage": "https://github.com/hacklanta/hubot-trello-github"
+}
